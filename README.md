@@ -1,26 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hey 👋, This is Vũ Đăng Khương
+[![Gmail Badge](https://img.shields.io/badge/-khuongvudang25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khuongvudang25@gmail.com)](mailto:khuongvudang25@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Khuong Vu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Khuong Vu/)](https://www.linkedin.com/in/Khuong Vu/) [![Github Badge](https://img.shields.io/badge/-KayGV25-grey?style=flat&logo=github&logoColor=white&link=https://github.com/KayGV25/)](https://www.github.com/KayGV25/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://kaygv25.github.io/Portfolio//)](https://kaygv25.github.io/Portfolio//) <p align='left'>Curiosity fuels my days like caffeine. As an undergrad, I'm constantly on the hunt for new knowledge, devouring it like a starving bookworm. But I don't just store it away; I transform it. Whether it's capturing the world through my lens or weaving logical puzzles in code, every experience becomes a brick in building my unique perspective. I'm not satisfied with shallow dips in the tech pool; I crave deep dives, exploring the hidden wonders of each new framework and language. So, if you need someone who brings all they have to the table, someone who approaches every challenge with the unwavering belief that "best" is always achievable, well, let's say, my inbox is open and my brain is buzzing. Bring it on!</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=KayGV25 alt=KayGV25 /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaygv25&label=Profile%20views&color=0e75b6&style=flat" alt="kaygv25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaygv25" alt="kaygv25" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://kaygv25.github.io/Portfolio/](https://kaygv25.github.io/Portfolio/)
-
-- 📫 How to reach me **khuongvudang25@gmail.com**
-
-- ⚡ Fun fact **I urge to learn more**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khuong vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khuong vu" height="30" width="40" /></a>
-<a href="https://fb.com/đăng khương vũ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đăng khương vũ" height="30" width="40" /></a>
-<a href="https://instagram.com/kayg_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayg_v" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaygv25&show_icons=true&locale=en&layout=compact" alt="kaygv25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaygv25&show_icons=true&locale=en" alt="kaygv25" /></p>
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=KayGV25&show_icons=true&include_all_commits=true)](https://github.com/KayGV25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayGV25&layout=compact)](https://github.com/KayGV25/github-readme-stats)
